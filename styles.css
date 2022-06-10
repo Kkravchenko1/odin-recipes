@@ -8,3 +8,35 @@ body {
     color: red;
   }
 
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  .boxtop {
+    background-color: whitesmoke;
+    border: 0 solid;
+    padding: 0px;
+    height: 100px ;
+    width: auto;
+    border: 2px solid black;
+  }
+
+  #title {
+    background-color: whitesmoke;
+    padding: 0px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: black;
+  }
+
+  .boxdown {
+background-color: whitesmoke;
+border: 0 solid;
+padding: 0px;
+height: 1000px;
+width: 100px;
+border: 2px solid black;
+color: black;
+  }
